@@ -1,0 +1,6 @@
+@AirCanadaTechnicalInterview.Server_HostAddress = http://localhost:5030
+
+GET {{AirCanadaTechnicalInterview.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
